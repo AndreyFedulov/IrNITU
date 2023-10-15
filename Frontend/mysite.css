@@ -1,0 +1,41 @@
+html{
+  background: url(irgups.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+table{
+  margin:auto; 
+}
+
+td{
+  vertical-align: top;
+}
+
+li {
+  list-style-type: none; /* Убираем маркеры */
+  
+ }
+
+ ul {
+  padding-left: 0; /* Сдвигаем список влево */
+  margin-top: 0;
+ }
+
+ header{
+  text-align: center;
+ }
+
+ .article{
+  text-align: center;
+ }
+
+ .footer_img{
+  width: 20px;
+  height: 20px;
+ }
